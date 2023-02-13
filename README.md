@@ -1,6 +1,6 @@
 # Canvas API demo
 
-It is a drawing sample program using Canvas API of JavaScript from TypeScript.
+It is a drawing sample program using Canvas API of JavaScript from TypeScript.  
 Note: The title and repository name will be changed according to future implementation contents。
 
 ## LICENCE
